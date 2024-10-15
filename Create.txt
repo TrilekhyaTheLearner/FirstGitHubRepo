@@ -1,0 +1,1 @@
+Creating GitHub repo, branch, branch by my own and pushing into my git
